@@ -1,0 +1,2 @@
+armas = []
+armaduras = []
